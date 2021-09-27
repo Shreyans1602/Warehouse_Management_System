@@ -13,12 +13,9 @@ Hence, this System is an easy to use program which is useful for people from all
 * Additional Features: The program automatically creates an SQL Database File for user needs and log file for debug and usage history needs. Empty Entries are automatically deleted to ensure compact database size.
 
 # Instructions
-Note: Your System must have Python3 installed. To Download Python3, 
-Visit: https://www.python.org/downloads/
+Note: Your System must have Python3 installed. To Download Python3, visit: https://www.python.org/downloads/.
 
-Run the Following one-time Commands in Command Prompt Before Running the Program:
-
-NOTE: Follow step 7,8,11,12 only if you are using Windows OS to disable Warning for Webcam Usage
+Run the Following one-time Commands in Command Prompt Before Running the Program: (Note: Follow step 7,8,11,12 only if you are using Windows OS to disable Warning for Webcam Usage.)
 
 1. python -m pip install --upgrade pip
 1. pip3 install imutils
@@ -36,6 +33,7 @@ NOTE: Follow step 7,8,11,12 only if you are using Windows OS to disable Warning 
 # Important Note
 
 If you wish to checkout the first boot features, delete the following files and execute the program:
+
 1. DAT.sqlite
 1. log.txt
 1. ROOT
