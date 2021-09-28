@@ -4,7 +4,7 @@ Note: This is a project I made over-night to compete in a hackathon (This projec
 # About
 Due to a major problem of livestock wastage in Agriculture Sector due to poor storage facilities and techniques, our most important farmers suffer a huge loss.
 
-Hence, this System is an easy to use program which is useful for people from all the diverse backgrounds, especially for farmers and to the highest levels of professionals. It is secure, very fast, accurate and easy to use made in India Program. It has QR Code generating and scanning features for unique identification and for entering reliable data very fast. It has two levels of operation:
+Hence, this System is an easy to use program which is useful for people from all the diverse backgrounds, especially for farmers and to the highest levels of professionals. It has QR Code generating and scanning features for unique identification and for entering reliable data very fast. It has two levels of operation:
 
 * Administrator Mode: It has special features for Administrators which includes livestock of warehouse on fingertip, changing administrator password and warehouse capacity. A password is needed to access this mode for security.
 
