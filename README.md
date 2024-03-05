@@ -1,5 +1,5 @@
 # Warehouse_Management_System
-Note: This is a project I made over-night to compete in a hackathon (This project did win that hackathon though :|) and for a mini project requirement for 3 credits. Do not expect it to be efficient. You can probably use it as a reference for some approaches useful if you are making a similar project.
+Note: This is a project I made over-night to compete in a hackathon (This project did win that hackathon though :)) and for a mini project requirement for 3 credits. Do not expect it to be efficient. You can probably use it as a reference for some approaches useful if you are making a similar project.
 
 # About
 Due to a major problem of livestock wastage in Agriculture Sector due to poor storage facilities and techniques, our most important farmers suffer a huge loss.
